@@ -4,11 +4,21 @@
    "checks": 2,
    "down": 0,
    "slow": 0
+  },
+  "2026-11-26": {
+   "checks": 1,
+   "down": 0,
+   "slow": 0
   }
  },
  "ingest": {
   "2026-11-25": {
    "checks": 2,
+   "down": 0,
+   "slow": 0
+  },
+  "2026-11-26": {
+   "checks": 1,
    "down": 0,
    "slow": 0
   }
@@ -18,11 +28,21 @@
    "checks": 2,
    "down": 0,
    "slow": 0
+  },
+  "2026-11-26": {
+   "checks": 1,
+   "down": 0,
+   "slow": 0
   }
  },
  "mcp": {
   "2026-11-25": {
    "checks": 2,
+   "down": 0,
+   "slow": 0
+  },
+  "2026-11-26": {
+   "checks": 1,
    "down": 0,
    "slow": 0
   }
